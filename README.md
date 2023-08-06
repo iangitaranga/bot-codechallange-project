@@ -1,5 +1,5 @@
 # Bank-of-flatiron
-This is a website that contains bots or rather war machines made exclusivwly for combat.
+This is a website that contains bots or rather war machines made exclusively for combat.
 
 ## Oversight of the Application
 This is a React application that allows you to browse through a list of robots, view their details, and enlist them into your armyand remove them from your army.
@@ -19,7 +19,7 @@ This is a React application that allows you to browse through a list of robots, 
 ## Installation
 * Git clone this repository into your local machine
 ```bash
-$ git clone https://github.com/JOY19ANYANGO/bank-of-flatiron
+$ git clone https://github.com/iangitaranga/bot-codechallange-project.git
 ```
 * Navigate into this folder.
 ```bash
