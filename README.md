@@ -1,16 +1,13 @@
 # Bank-of-flatiron
-This is a website that contains bots which can be recruited in the army
+This is a website that contains bots or rather war machines made exclusivwly for combat.
 
-## Table of contents.
-* Requirements.
-* Technologies used.
-* Installation.
-* Usage
-* License.
+## Oversight of the Application
+This is a React application that allows you to browse through a list of robots, view their details, and enlist them into your armyand remove them from your army.
 
-### Requirements.
-* Smartphone/computer.
-* stable network
+
+### What do you need to run it ?
+* Laptop/computer.
+* stable internet.
 
 ## Technologies used.
 * React
@@ -18,6 +15,7 @@ This is a website that contains bots which can be recruited in the army
 * css
 * JSX
 * JSON
+  
 ## Installation
 * Git clone this repository into your local machine
 ```bash
@@ -54,6 +52,6 @@ $ npm start
 * You can sort the bots by clicking sort buttons.
 
 ## License.
-Author Joy Anyango
+Author Ian Waihenya.
 
 [MIT](https://choosealicense.com/licenses/mit/)
