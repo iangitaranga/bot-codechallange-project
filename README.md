@@ -15,6 +15,9 @@ This is a React application that allows you to browse through a list of robots, 
 * css
 * JSX
 * JSON
+
+### Deployment
+       https://soft-griffin-25418a.netlify.app/
   
 ## Installation
 * Git clone this repository into your local machine
